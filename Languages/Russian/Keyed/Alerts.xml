@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- ========== Rituals ========== -->
+  <AlertRitualSustainSingle_Label>Ритуал: Поддержание дракона</AlertRitualSustainSingle_Label>
+  <AlertRitualSustainSingle_Desc>Дракон на карте не будет голодать в течение {DURATION}.</AlertRitualSustainSingle_Desc>
+  <AlertRitualSustainMultiple_Label>Ритуал: Поддержание драконов</AlertRitualSustainMultiple_Label>
+  <AlertRitualSustainMultiple_Desc>Ни один из драконов на карте не будет голодать в течение {DURATION}.</AlertRitualSustainMultiple_Desc>
+  <AlertRitualWardMultiple_Label>Ритуал: Защита от драконов</AlertRitualWardMultiple_Label>
+  <AlertRitualWardMultiple_Desc>Дикие драконы уйдут, а фракционные драконы не получат психических срывов в течение {DURATION}.</AlertRitualWardMultiple_Desc>
+</LanguageData>

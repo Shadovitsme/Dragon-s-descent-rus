@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- ========== Ability ========== -->
+	<AbilityGainHediffMessage>{PAWN} получил способность {ABILITY}.</AbilityGainHediffMessage>
+	<Ability_NotifyAttackFaction>Отношения с атакованной фракцией изменятся на {GOODWILL}.</Ability_NotifyAttackFaction>
+	<Ability_NotifyOtherFactions>Отношения со всеми другими фракциями изменятся на {GOODWILL}.</Ability_NotifyOtherFactions>
+	<Ability_NotifyMapGenocide>Все пешки на карте будут убиты, а карта уничтожена!</Ability_NotifyMapGenocide>
+	<Ability_RequiresBodyPart>{PAWN} не хватает ({COUNT}) {BODYPART}.</Ability_RequiresBodyPart>
+	<Ability_CannotUseWhileFormingCaravan>{PAWN} не может использовать эту способность во время формирования каравана.</Ability_CannotUseWhileFormingCaravan>
+	<Ability_CannotStartFlyingUnderRoof>Нельзя летать под крышей.</Ability_CannotStartFlyingUnderRoof>
+	<Ability_CannotEndFlyingUnderRoof>Нельзя выбрать клетку под крышей.</Ability_CannotEndFlyingUnderRoof>
+	<Ability_UnderMinimumAge>{PAWN} должен быть не младше {AGE}, чтобы использовать эту способность.</Ability_UnderMinimumAge>
+</LanguageData>

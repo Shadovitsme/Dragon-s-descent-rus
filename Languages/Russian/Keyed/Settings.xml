@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Settings_DragonCategory>Dragon's Descent</Settings_DragonCategory>
+  <Setting_Select>Выбрать все</Setting_Select>
+  <Setting_Deselect>Снять выделение</Setting_Deselect>
+  <Setting_Reset>Сбросить все</Setting_Reset>
+  <Setting_WildSpawn>Спавн диких</Setting_WildSpawn>
+  <Setting_WildSpawn_Title>Появление диких драконов [{0}]</Setting_WildSpawn_Title>
+  <Setting_WildSpawn_Description>Разрешить/запретить появление диких {0} по правилам биома.</Setting_WildSpawn_Description>
+  <Setting_EventSpawn>События</Setting_EventSpawn>
+  <Setting_EventSpawn_Title>Разрешить событие [{0}]</Setting_EventSpawn_Title>
+  <Setting_EventSpawn_Description>Управляет вероятностью срабатывания события.</Setting_EventSpawn_Description>
+  <Setting_Compatibility>Патчи совместимости</Setting_Compatibility>
+  <Setting_Compatibility_KFM_Range_Title>[Kill For Me]: Использовать способности</Setting_Compatibility_KFM_Range_Title>
+  <Setting_Compatibility_KFM_Range_Description>Включает способности при отправке на убийство.</Setting_Compatibility_KFM_Range_Description>
+  <Setting_Compatibility_HFM_Range_Title>[Hunt For Me]: Использовать способности</Setting_Compatibility_HFM_Range_Title>
+  <Setting_Compatibility_HFM_Range_Description>Включает способности при отправке на охоту.</Setting_Compatibility_HFM_Range_Description>
+  <Setting_Compatibility_ARA_VerbCheck_Title>[Alpha Animals (OLD)]: Заменить старый патч VerbCheck</Setting_Compatibility_ARA_VerbCheck_Title>
+  <Setting_Compatibility_ARA_VerbCheck_Description>Обнаруживает старый префикс-патч ARA__VerbCheck_Patch в AA и заменяет его на более совместимую версию.\n\n(AA был обновлён для использования более совместимой версии, этот патч существует для других модов, которые всё ещё используют старую версию)</Setting_Compatibility_ARA_VerbCheck_Description>
+  <Setting_Compatibility_Warning>Изменения вступят в силу после перезапуска игры.</Setting_Compatibility_Warning>
+  <Setting_FightingJobs>Патч совместимости [Fighting Jobs]</Setting_FightingJobs>
+  <Setting_FightingJobs_Note>Некоторая функциональность зависит от того, считается ли текущее задание пешки боевым.\nЕсли есть модифицированное задание, при котором дракон начинает сражаться, его должен пропатчить автор мода в PawnUtility.IsFighting() или добавить в этот список совместимости.</Setting_FightingJobs_Note>
+  <Setting_FightingJobs_Add>Добавить JobDef</Setting_FightingJobs_Add>
+  <Setting_FightingJobs_Remove>Удалить</Setting_FightingJobs_Remove>
+  <Setting_SpawnsNamed>Появление с именами</Setting_SpawnsNamed>
+  <Setting_SpawnsNamed_Title>Появление уже с именем [{0}], шанс: {1}%</Setting_SpawnsNamed_Title>
+</LanguageData>

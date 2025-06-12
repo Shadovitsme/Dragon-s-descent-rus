@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <AbilitySetting_Label_Name>Имя</AbilitySetting_Label_Name>
+  <AbilitySetting_Label_Desc>Описание</AbilitySetting_Label_Desc>
+  <AbilitySetting_Label_Range>Дальность</AbilitySetting_Label_Range>
+  <AbilitySetting_Label_AIUse>Автоиспользование</AbilitySetting_Label_AIUse>
+  <AbilitySetting_Label_Status>Статус</AbilitySetting_Label_Status>
+  <AbilitySetting_Label_Gain>Условия получения</AbilitySetting_Label_Gain>
+  <AbilitySetting_Label_Loss>Условия потери</AbilitySetting_Label_Loss>
+  <AbilitySetting_Label_Pawns>Затронутые пешки</AbilitySetting_Label_Pawns>
+  <AbilitySetting_Range_Format>{MIN}~{MAX}</AbilitySetting_Range_Format>
+</LanguageData>

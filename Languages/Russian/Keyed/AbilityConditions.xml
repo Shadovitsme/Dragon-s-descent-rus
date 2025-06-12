@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- ===== System ===== -->
+  <ConditionSatisfied>{CONDITION}: Выполнено</ConditionSatisfied>
+  <ConditionFulfilled>{CONDITION}: Завершено</ConditionFulfilled>
+  <!-- ===== Multi ===== -->
+  <ConditionAnd>({CONDITION_A} И {CONDITION_B})</ConditionAnd>
+  <ConditionOr>({CONDITION_A} ИЛИ {CONDITION_B})</ConditionOr>
+  <!-- ===== Specific ===== -->
+  <ConditionAge>Должен быть не младше {AGE}</ConditionAge>
+  <ConditionBodyPart>Должен иметь {BODY_PART}</ConditionBodyPart>
+  <ConditionBodyPart_Missing>Не должен иметь {BODY_PART}</ConditionBodyPart_Missing>
+  <ConditionRecord>Должен иметь не менее {VALUE} {RECORD}</ConditionRecord>
+</LanguageData>

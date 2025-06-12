@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- ========== Rituals ========== -->
+	<RitualNoFactionMessage>Захватите алтарь, прежде чем пытаться активировать эффект ритуала.</RitualNoFactionMessage>
+	<RitualNoTargetMessage>Нет подходящих целей в радиусе действия.</RitualNoTargetMessage>
+	<RitualControlNeedsOnMessage>{TARGET} мистически насытился. (Длительность: {DURATION})</RitualControlNeedsOnMessage>
+	<RitualControlNeedsOffMessage>{TARGET} снова начинает испытывать голод.</RitualControlNeedsOffMessage>
+	<RitualControlNeedsAllOnMessage>Драконы мистически чувствуют насыщение. (Длительность: {DURATION})</RitualControlNeedsAllOnMessage>
+	<RitualControlNeedsAllOffMessage>Драконы снова начинают испытывать голод.</RitualControlNeedsAllOffMessage>
+	<RitualHediffRemoveMessage>{TARGET} выздоровел от {HEDIFF}.</RitualHediffRemoveMessage>
+	<RitualHediffRemoveAllMessage>{COUNT} дракон(ов) выздоровели от {HEDIFF}.</RitualHediffRemoveAllMessage>
+	<RitualCalmDownMessage>{TARGET} успокаивается.</RitualCalmDownMessage>
+	<RitualCalmDownAllMessage>{COUNT} дракон(ов) были успокоены.</RitualCalmDownAllMessage>
+	<RitualBanishMessage>{TARGET} был изгнан.</RitualBanishMessage>
+	<RitualBanishAllMessage>{COUNT} дракон(ов) были изгнаны.</RitualBanishAllMessage>
+	<RitualWardOnMessage>Колония защищена от драконьего гнева. (Длительность: {DURATION})</RitualWardOnMessage>
+	<RitualWardOffMessage>Колония больше не защищена от драконьего гнева.</RitualWardOffMessage>
+	<RitualConfirmationTitle>Внимание</RitualConfirmationTitle>
+	<RitualTargetedGoodwillChangeMessage>Отношения с {FACTION} изменятся на {GOODWILL}.</RitualTargetedGoodwillChangeMessage>
+	<RitualOtherGoodwillChangeMessage>Отношения со всеми другими фракциями изменятся на {GOODWILL}.</RitualOtherGoodwillChangeMessage>
+	<RitualLabel>{LABEL} ({COST})</RitualLabel>
+	<RitualLabelType>Тип: {TYPE}</RitualLabelType>
+	<RitualLabelDuration>Длительность: {TIME}.</RitualLabelDuration>
+	<RitualLabelCost>Стоимость: {COST} благосклонности.</RitualLabelCost>
+	<RitualLabelCooldown>Перезарядка: {TIME}</RitualLabelCooldown>
+	<RitualActive>- Активно -</RitualActive>
+	<RitualInsufficientFavor>Недостаточно благосклонности: требуется ещё {NEEDED}.</RitualInsufficientFavor>
+	<RitualCoolingDown>Перезаряжается.</RitualCoolingDown>
+	<RitualCooldownExpiry>Перезарядка закончится через {TIME}</RitualCooldownExpiry>
+	<RitualDurationExpiry>Эффект закончится через {TIME}</RitualDurationExpiry>
+	<RitualTypeInstant>Мгновенный эффект</RitualTypeInstant>
+	<RitualTypeTicking>Длительный эффект</RitualTypeTicking>
+	<RitualTargetLocal>(Локальная цель)</RitualTargetLocal>
+	<RitualTargetMap>(На всю карту)</RitualTargetMap>
+	<RitualTargetWorld>(Цель в мире)</RitualTargetWorld>
+	<RitualTargetForeign>(Внешняя цель)</RitualTargetForeign>
+	<RitualGlobalLabelTargetCount>{COUNT} цель(ей)</RitualGlobalLabelTargetCount>
+	<RitualGlobalLabelTargetRange>~{DISTANCE} вне диапазона {RANGE}</RitualGlobalLabelTargetRange>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- ========== Egging ========== -->
+  <DragonLayingEggMessage>{PARENT} снес(ла) {EGG}</DragonLayingEggMessage>
+  <DragonEggRuinedIncubatorMessage>Внимание: {EGG} испорчено.</DragonEggRuinedIncubatorMessage>
+  <!-- ========== Mating ========== -->
+  <DragonMateSpawnMessage>{MATE} услышал(а) брачный зов!</DragonMateSpawnMessage>
+  <HostileResponseFriendlyFireMessage>{PAWN} впал(а) в ярость из-за дружественного огня от {ATTACKER}. Ярость закончится, когда дракон отдохнёт или потеряет сознание.</HostileResponseFriendlyFireMessage>
+</LanguageData>
