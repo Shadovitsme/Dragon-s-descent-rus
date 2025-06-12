@@ -2,6 +2,14 @@
 <LanguageData>
     <FlameNullification.label>подавление пламени</FlameNullification.label>
     <FlameNullification.labelNoun>Подавляющий пламя барьер</FlameNullification.labelNoun>
-    <FlameNullification.description>Тонкий барьер, обычно возникающий на чешуе дракона, был воссоздан благодаря употреблению драконьей крови. 
-Этот барьер блокирует или ослабляет любое пламя.</FlameNullification.description>
+    <FlameNullification.description>Тонкий барьер, обычно возникающий на чешуе дракона, был воссоздан благодаря употреблению драконьей крови. Этот барьер блокирует или ослабляет любое пламя.</FlameNullification.description>
+    <DragonsBloodHigh.label>Под драконьей кровью</DragonsBloodHigh.label>
+    <DragonsBloodHigh.labelNoun>Кайф от драконьей крови</DragonsBloodHigh.labelNoun>
+    <DragonsBloodHigh.description>Драконья кровь вытесняет обычную кровь носителя, обеспечивая повышенную защиту, атаку и почти полную невосприимчивость к огню.</DragonsBloodHigh.description>
+    <DragonsBloodTolerance.label>Толерантность к драконьей крови</DragonsBloodTolerance.label>
+    <DragonsBloodTolerance.description>Развитие невосприимчивости к драконьей крови. Чем она больше тем больше крови нужно для достижения желаемого эффекта</DragonsBloodTolerance.description>
+    <DragonsBloodAddiction.label>Зависимость от драконьей крови
+    </DragonsBloodTolerance.label>
+    <DragonsBloodAddiction.description>Физическая зависимость от драконьей крови. Длительное употребление драконьей крови заставило организм привыкнуть к ней, поэтому теперь телу, особенно мозгу, она необходима для нормального функционирования. Без регулярных доз драконьей крови начнется синдром отмены. Однако длительное воздержание заставит организм возобновить нормальное функционирование, вымыв инородную кровь.
+    </DragonsBloodTolerance.description>
 </LanguageData>
