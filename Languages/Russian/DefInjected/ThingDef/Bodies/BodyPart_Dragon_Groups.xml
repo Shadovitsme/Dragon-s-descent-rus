@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Wings.label>Оба крыла</Wings.label>
+    <DD_Wings.label>Оба крыла</DD_Wings.label>
+    <Horns.label>Рога</Horns.label>
+    <DD_Horns.label>Рога</DD_Horns.label>
+    <Paws.label>Лапы</Paws.label>
+    <BackLeftPaw.label>Лапа</BackLeftPaw.label>
+    <BackLeftPaw.label>Лапа</BackLeftPaw.label>
+    <DD_BackLeftPaw.label>Лапа</DD_BackLeftPaw.label>
+    <DD_FrontRightPaw.label>Лапа</DD_FrontRightPaw.label>
+    <BackRightPaw.label>Лапа</BackRightPaw.label>
+    <Tail.label>Хвост</Tail.label>
+    <DD_Tail.label>Хвост</DD_Tail.label>
+    <Coracoid.label>Киль</Coracoid.label>
+    <DD_Coracoid.label>Киль</DD_Coracoid.label>
+    <Pubis.label>Пах</Pubis.label>
+    <DD_Pubis.label>Пах</DD_Pubis.label>
+    <Fundamentum.label>Фундаментум</Fundamentum.label>
+    <DD_Fundamentum.label>Фундаментум</DD_Fundamentum.label>
+        <DD_Fundamentum.label>Фундаментум</DD_Fundamentum.label>
+    <Wing.label>Крыло</Wing.label>
+    <DD_Wing.label>Крыло</DD_Wing.label>
+</LanguageData>

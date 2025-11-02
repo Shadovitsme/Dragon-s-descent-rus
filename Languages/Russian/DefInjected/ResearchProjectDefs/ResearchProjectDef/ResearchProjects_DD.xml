@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<DraconicDrugProduction.label>Производство драконьих препаратов</DraconicDrugProduction.label>
+	<DraconicDrugProduction.description>Открывает возможность создания драконьих препаратов и выращивание драгоценных ягод. Драконья амброзия помогает растить драконов, а их кровь помогает в бою.</DraconicDrugProduction.description>
+	<DraconicIncubation.label>Инкубация</DraconicIncubation.label>
+	<DraconicIncubation.description>Постройка базовой фурнитуры для драконов таких как простые инкубаторы и драконьи лежанки.</DraconicIncubation.description>
+	<DraconicApparelAndWeapons.label>Одежда и оружие драконов</DraconicApparelAndWeapons.label>
+	<DraconicApparelAndWeapons.description>Создание драконической брони и оружия</DraconicApparelAndWeapons.description>
+	<DraconicAdvancedIncubation.label>Продвинутая инкубация</DraconicAdvancedIncubation.label>
+	<DraconicAdvancedIncubation.description>Постройка продвинутых инкубаторов</DraconicAdvancedIncubation.description>
+</LanguageData>
