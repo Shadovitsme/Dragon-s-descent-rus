@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Black_Dragon.label>Черный дракон</Black_Dragon.label>
+    <Black_Dragon.description>Черные драконы - самые свирепые из всех, даже свирепей чем красные. 
+        Поэтому их невероятно трудно приручить и они очень опасны, слишком опасны и самовольны для использования в войне. 
+        Подвластны ритуалам</Black_Dragon.description>
+    <Blue_Dragon.label>Голубой дракон</Blue_Dragon.label>
+    <Blue_Dragon.description>Голубые драконы наиболее распространены в холодном климате.
+        Их рацион состоит в основном из рыбы, но в их широтах ничего крупнее и нет.
+        Известны как драконы с наиболее добрым нравом, они с радостью принимают подношения.
+        Подвластны ритуалам</Blue_Dragon.description>
+    <Green_Dragon.label>Зеленый дракон</Green_Dragon.label>
+    <Green_Dragon.description>Зеленых драконов обычно легко приручить потому они стали одними из первых военных драконов. Их использовали для перевозки большого количества солдат.
+        Подвластны ритуалам</Green_Dragon.description>
+    <Purple_Dragon.label>Фиолетовый дракон</Purple_Dragon.label>
+    <Purple_Dragon.description>Изначально выведены в неволе с помощью скрещивания красных и синих драконов. Однажды некий Венн освободил их и теперь они бродят по Окраинному миру.
+        Подвластны ритуалам</Purple_Dragon.description>
+    <Red_Dragon.label>Красный дракон</Red_Dragon.label>
+    <Red_Dragon.description>Настоящие машины войны. Многие из них освободились благодаря некой Курро,
+ что отпускала их всякий раз когда могла.</Red_Dragon.description>
+    <White_Dragon.label>Белый дракон</White_Dragon.label>
+    <White_Dragon.description>Белые драконы - мистический вид, обитающий в самом холодном климате. Чрезвычайно территориальны
+и стараются прогнать каждого, кто будет наблюдать за ними.</White_Dragon.description>
+    <Yellow_Dragon.label>Желтый дракон</Yellow_Dragon.label>
+    <Yellow_Dragon.description>Самая молодая дикая морфа драконов. Редкая доминантная мутация привела к появлению 
+нового вида драконов, который развился в отдельную расу.</Yellow_Dragon.description>
+</LanguageData>
