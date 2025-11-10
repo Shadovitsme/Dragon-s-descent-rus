@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- Jevel Orhid -->
+    <Jewel_Orchid.label>Драгоценная орхидея</Jewel_Orchid.label>
+    <Jewel_Orchid.description>Экзотическое на вид растение, состоящее из псевдобульб, или, как их
+        называют в народе - ягод. Эти медленно растущие растения очень красивы из-за своих больши
+        красных и желтых цветков. Используется в производстве некоторых драконьих изделий.</Jewel_Orchid.description>
+
+    <!-- Jewelwe Rhizome -->
+    <Jeweled_Rhizome.label>Драгоценный клубень</Jeweled_Rhizome.label>
+    <Jeweled_Rhizome.description>Драгоценный клубень - это острый на вкус подземный корнеплод,
+        который любят драконы.</Jeweled_Rhizome.description>
+
+</LanguageData>
