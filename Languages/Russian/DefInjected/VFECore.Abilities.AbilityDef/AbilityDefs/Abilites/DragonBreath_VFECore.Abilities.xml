@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <DD_DraconicFlight.label>Полет</DD_DraconicFlight.label>
+    <DD_DraconicFlight.description>Джетпак взлетает, Икар падает</DD_DraconicFlight.description>
+
+    <DD_DraconicFlight.label>ЭМИ имиульс</DD_DraconicFlight.label>
+    <DD_DraconicFlight.description>Создает ЭМИ импульс вокруг себя. Отключает всю электронику в
+        радиусе.</DD_DraconicFlight.description>
+
+    <DD_DragonSpit_Fire.label>Плевок драконьего огня</DD_DragonSpit_Fire.label>
+    <DD_DraconicFlight.description>Пиу!</DD_DraconicFlight.description>
+
+    <DD_DragonBreath_Fire.label>Огненное дыхание</DD_DragonBreath_Fire.label>
+    <DD_DragonBreath_Fire.description>Рыр</DD_DragonBreath_Fire.description>
+
+    <DD_DraconicFlight.label>Полет</DD_DraconicFlight.label>
+    <DD_DraconicFlight.description>Джетпак взлетает, Икар падает</DD_DraconicFlight.description>
+
+</LanguageData>
