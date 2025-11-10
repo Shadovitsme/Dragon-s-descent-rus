@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <DD_MeleeWeapon_HornedLance.label>Рогатое копье</DD_MeleeWeapon_HornedLance.label>
+    <DD_MeleeWeapon_HornedLance.description>Смертоносное копье с наконечником в виде двух резных
+        драконьих рогов. Его длина и острота делает его опасным оружием даже в неопытных руках.</DD_MeleeWeapon_HornedLance.description>
+
+    <DD_MeleeWeapon_DrachenSword.label>Драконий меч</DD_MeleeWeapon_DrachenSword.label>
+    <DD_MeleeWeapon_DrachenSword.description>Идеально сбалансированный меч из драконьего рога.
+        Клинок состоит из обычного металла, однако рукоять из рога настолько удобна, что позволяет
+        владельцу атаковать с безумной скоростью, превращая обычный меч в оружие с которым нужно
+        считаться.</DD_MeleeWeapon_DrachenSword.description>
+
+    <DDMeleeWeapon_ThrumboBattleAxe.label>Боевой топор трумбо</DDMeleeWeapon_ThrumboBattleAxe.label>
+    <DDMeleeWeapon_ThrumboBattleAxe.description>Боевой топор из заточенного рога трумбо. Длинная
+        рукоять позволяет совершать сильные взмахи и удары, однако в урон скорости.</DDMeleeWeapon_ThrumboBattleAxe.description>
+
+    <DDMeleeWeapon_FocusingTome.label>Том фокусировки</DDMeleeWeapon_FocusingTome.label>
+    <DDMeleeWeapon_FocusingTome.description>Книга написанная специальными псионическими рунами. Этот
+        тяжелый том повышает психочувствительность и уменьшает нейроперегрев, что дает владельцу
+        значительный бонус в псионике. Однако это всего лишь книга потому в бою не очень
+        смертоносна.</DDMeleeWeapon_FocusingTome.description>
+
+
+</LanguageData>

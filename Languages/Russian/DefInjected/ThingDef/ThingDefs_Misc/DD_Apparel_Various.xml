@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <DD_Apparel_ScaleMail.label>Чешуйчатае броня</DD_Apparel_ScaleMail.label>
+    <DD_Apparel_ScaleMail.description>Вдохновлена тем как настоящие чешуйки перекрывают друг друга.
+        Этот элемент одежды состоит из множества мелких чешуек связанных между собою цепочкой. Дает
+        большую мобильность в ущерб защите.</DD_Apparel_ScaleMail.description>
+
+    <DD_Apparel_WingCape.label>Крылатая накидка</DD_Apparel_WingCape.label>
+    <DD_Apparel_WingCape.description>Короткая накидка сшитая в форме крыльев. Дает бонус к скорости.</DD_Apparel_WingCape.description>
+
+</LanguageData>
