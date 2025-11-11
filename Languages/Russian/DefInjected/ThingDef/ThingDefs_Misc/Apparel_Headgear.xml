@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
     <DD_Apparel_ScaleHelm.label>Чешуйчатый шлем</DD_Apparel_ScaleHelm.label>
-    <DD_Apparel_ScaleHelm.description>Шлем, выкованный из мелких накладывающихся друг на друга
-        чешуек. Защищает всю голову целиком.</DD_Apparel_ScaleHelm.description>
+    <DD_Apparel_ScaleHelm.description>Шлем, выкованный из мелких накладывающихся друг на друга чешуек. Защищает всю голову целиком.</DD_Apparel_ScaleHelm.description>
 
     <DD_Apparel_DragonCrown.label>Драконья корона</DD_Apparel_DragonCrown.label>
-    <DD_Apparel_DragonCrown.description>Корона, сделанная из резных дракньих рогов и металла.
-        Значительно повышает социальный рейтинг.</DD_Apparel_DragonCrown.description>
+    <DD_Apparel_DragonCrown.description>Корона, сделанная из резных дракньих рогов и металла. Значительно повышает социальный рейтинг.</DD_Apparel_DragonCrown.description>
 </LanguageData>
