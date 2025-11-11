@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <DragonNest.label>Драконье гнездо</DragonNest.label>
+    <DragonNest.description>Мягкая подстилка из сена подходит для любого драконьего яйца, так как защищает его от непогоды и увеличивает рост на 13%.</DragonNest.description>
+
+    <DragonPillow.label>Драконья лежанка</DragonPillow.label>
+    <DragonPillow.description>Мягкая лежанка для драконов.</DragonPillow.description>
+
+    <BasicIncubator.label>Базовый инкубатор</BasicIncubator.label>
+    <BasicIncubator.description>Инкубатор специально сделанный для драконьих яиц. Ускоряет развитие эмбриона на 30%, что ускоряет вылупление</BasicIncubator.description>
+
+    <AdvancedIncubator.label>Продвинутый инкубатор</AdvancedIncubator.label>
+    <AdvancedIncubator.description>Тонко настраиваемая машина, созданная специально для инкубации драконьих яиц. Ускоряет развитие эмбрионов на 50%.</AdvancedIncubator.description>
+
+</LanguageData>
