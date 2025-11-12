@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    <QuadrupedeAnimalWithClawsDragon.corePart.parts.Wing.customLabel>Правое крыло</QuadrupedeAnimalWithClawsDragon.corePart.parts.Wing.customLabel>
+    <!-- Переопределяем customLabel на пустой, чтобы RimWorld использовал def.label -->
+    <QuadrupedeAnimalWithClawsDragon.corePart.parts.Wing.customLabel></QuadrupedeAnimalWithClawsDragon.corePart.parts.Wing.customLabel>
+    <QuadrupedeAnimalWithClawsDragon.corePart.parts.Lung.customLabel>Легкое</QuadrupedeAnimalWithClawsDragon.corePart.parts.Lung.customLabel>
+    <QuadrupedeAnimalWithClawsDragon.corePart.parts.Kidney.customLabel>Почка</QuadrupedeAnimalWithClawsDragon.corePart.parts.Kidney.customLabel>
+    <QuadrupedeAnimalWithClawsDragon.corePart.parts.Shoulder.customLabel>Плечо</QuadrupedeAnimalWithClawsDragon.corePart.parts.Shoulder.customLabel>
+    <QuadrupedeAnimalWithClawsDragon.corePart.parts.Leg.customLabel>Нога</QuadrupedeAnimalWithClawsDragon.corePart.parts.Leg.customLabel>
+
 </LanguageData>
